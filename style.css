@@ -41,7 +41,6 @@ body {
     display: grid;
     place-items: center;
     min-height: 100svh;
-    background: var(--very-light-blue);
 }
 
 h1,h2,h3 {
